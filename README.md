@@ -43,7 +43,7 @@
   - 📫 You can reach me from <strong>sehergureel@gmail.com</strong>
   </p>
 <p>
-  - ⚡ Fun fact  <strong>NF is so right and cool</strong>
+  - ⚡ Fun fact  <strong>Blacking 🖤</strong>
   </p>
 
 
