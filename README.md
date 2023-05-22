@@ -1,8 +1,5 @@
 <h2 align="left">Hi 👋! My name is Seher and I'm a student at a Highschool, from Turkey</h2>
 
-<div align="center">
-<span><a href="https://app.daily.dev/NoNameNope"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAXoAAACCCAMAAAB/yPNiAAAAA1BMVEUAAACnej3aAAAARklEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAqwHAdgABqZpPiQAAAABJRU5ErkJggg==" width="10"alt="NoNmeNope's picture ;("/></a>
-</span>
 <span clear="none"><a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31wqctwrsaxndfkof637xggg6264&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=43c13e(https://github.com/kittinan/spotify-github-profile)" alt="spotify-github-profile"></a></span>
 
 </div>
@@ -29,7 +26,7 @@
   - 📫 You can reach me from <strong>sehergureel@gmail.com</strong>
   </p>
 <p>
-  - ⚡ Fun fact  <strong>Blacking 🖤</strong>
+  - ⚡ Fun fact  <strong> 🖤 Blacking 🖤</strong>
   </p>
 
 
@@ -39,7 +36,7 @@
 
 <div align="center">
   <a href="sehergureel@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail"  />
+       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/S/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt=""  />
