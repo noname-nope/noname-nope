@@ -1,19 +1,5 @@
 <h2 align="left">Hi 👋! My name is Seher and I'm a student at a Highschool, from Turkey</h2>
 
-###
-
-<div align="center">
-  <img height="148" src=""
-</div>
-
-###
-
-<div align="center">
-  <img src=""  />
-</div>
-
-###
-
 <div align="center">
 <span><a href="https://app.daily.dev/NoNameNope"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAXoAAACCCAMAAAB/yPNiAAAAA1BMVEUAAACnej3aAAAARklEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAqwHAdgABqZpPiQAAAABJRU5ErkJggg==" width="10"alt="NoNmeNope's picture ;("/></a>
 </span>
