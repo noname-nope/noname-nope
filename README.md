@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is nonamenope and I'm a student from Turkey</h2>
+<h2 align="left"> Hi 👋! My name is nonamenope and I'm a student from Turkey </h2>
 
 <span clear="none"><a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31wqctwrsaxndfkof637xggg6264&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=43c13e(https://github.com/kittinan/spotify-github-profile)" alt="spotify-github-profile"></a></span>
 
